@@ -176,6 +176,17 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
         "zoom": 1
     },
     {
+        "category": "Miscellaneous",
+        "height": 810,
+        "iconname": "Blanket",
+        "iconpixelated": false,
+        "imagedata": "blanket.png",
+        "url": "https://blanket.warze.org",
+        "width": 662,
+        "windowname": "Blanket",
+        "zoom": 1
+    },
+    {
         "category": "Community",
         "height": 800,
         "iconname": "Permaplace",
