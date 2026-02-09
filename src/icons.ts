@@ -165,6 +165,17 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
         "zoom": 0.5
     },
     {
+        "category": "Games",
+        "height": 750,
+        "iconname": "BruteCraft",
+        "iconpixelated": true,
+        "imagedata": "brutecraft.png",
+        "url": "https://brutecraft.warze.org/",
+        "width": 650,
+        "windowname": "BruteCraft",
+        "zoom": 1
+    },
+    {
         "category": "Miscellaneous",
         "height": 800,
         "iconname": "Discord Status",
