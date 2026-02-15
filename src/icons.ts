@@ -155,6 +155,16 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
     },
     {
         "category": "Games",
+        "height": 648,
+        "iconname": "Ice Cream Parlor",
+        "iconpixelated": false,
+        "imagedata": "icecream.png",
+        "url": "https://icecream.warze.org/",
+        "width": 750,
+        "zoom": 0.7
+    },
+    {
+        "category": "Games",
         "height": 800,
         "iconname": "Jellys Venture",
         "iconpixelated": false,
