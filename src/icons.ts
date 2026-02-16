@@ -61,32 +61,32 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
     {
         "category": "Games",
         "height": 540,
-        "iconname": "Casino1",
+        "iconname": "Hat Juggler",
         "iconpixelated": false,
         "imagedata": "casino1.png",
-        "url": "https://warze.org/casino1",
+        "url": "https://casino.warze.org/1",
         "width": 800,
         "windowname": "Casino 1",
         "zoom": 0.5
     },
-    {
-        "category": "Games",
-        "height": 600,
-        "iconname": "Drinking Contest",
-        "iconpixelated": false,
-        "imagedata": "casinodrink.png",
-        "url": "https://warze.org/casinodrink",
-        "width": 800,
-        "windowname": "Casino",
-        "zoom": 0.6
-    },
+    // {
+    //     "category": "Games",
+    //     "height": 600,
+    //     "iconname": "Drinking Contest",
+    //     "iconpixelated": false,
+    //     "imagedata": "casinodrink.png",
+    //     "url": "https://warze.org/casinodrink",
+    //     "width": 800,
+    //     "windowname": "Casino",
+    //     "zoom": 0.6
+    // },
     {
         "category": "Games",
         "height": 540,
-        "iconname": "Casino2",
+        "iconname": "Picture Poker",
         "iconpixelated": false,
         "imagedata": "casino2.png",
-        "url": "https://warze.org/casino2",
+        "url": "https://casino.warze.org/2",
         "width": 800,
         "windowname": "Casino 2",
         "zoom": 0.5
@@ -94,10 +94,10 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
     {
         "category": "Games",
         "height": 540,
-        "iconname": "Casino3",
+        "iconname": "Tower Jumper",
         "iconpixelated": false,
         "imagedata": "casino3.png",
-        "url": "https://warze.org/casino3",
+        "url": "https://casino.warze.org/3",
         "width": 800,
         "windowname": "Casino 3",
         "zoom": 0.5
@@ -143,16 +143,16 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
         "width": 600,
         "zoom": 0.4
     },
-    {
-        "category": "Games",
-        "height": 540,
-        "iconname": "Casino",
-        "iconpixelated": false,
-        "imagedata": "casino.png",
-        "url": "https://warze.org/casino",
-        "width": 800,
-        "zoom": 0.5
-    },
+    // {
+    //     "category": "Games",
+    //     "height": 540,
+    //     "iconname": "Casino",
+    //     "iconpixelated": false,
+    //     "imagedata": "casino.png",
+    //     "url": "https://warze.org/casino",
+    //     "width": 800,
+    //     "zoom": 0.5
+    // },
     {
         "category": "Games",
         "height": 600,
