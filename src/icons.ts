@@ -28,15 +28,25 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
         "width": 800,
         "zoom": 1
     },
+    // {
+    //     "category": "Games",
+    //     "height": 600,
+    //     "iconname": "microGame",
+    //     "iconpixelated": false,
+    //     "imagedata": "microgame.svg",
+    //     "url": "https://microgame.warze.org",
+    //     "width": 800,
+    //     "zoom": 0.5
+    // },
     {
         "category": "Games",
-        "height": 600,
-        "iconname": "microGame",
+        "height": 700,
+        "iconname": "Parasite",
         "iconpixelated": false,
-        "imagedata": "microgame.svg",
-        "url": "https://microgame.warze.org",
-        "width": 800,
-        "zoom": 0.5
+        "imagedata": "parasite.png",
+        "url": "https://parasite.warze.org/",
+        "width": 700,
+        "zoom": 1
     },
     {
         "category": "Games",
