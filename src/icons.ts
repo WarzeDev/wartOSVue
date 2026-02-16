@@ -155,6 +155,16 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
     },
     {
         "category": "Games",
+        "height": 600,
+        "iconname": "Kubi Pets",
+        "iconpixelated": false,
+        "imagedata": "kubipets.png",
+        "url": "https://kubipets.warze.org/",
+        "width": 800,
+        "zoom": 1
+    },
+    {
+        "category": "Games",
         "height": 648,
         "iconname": "Ice Cream Parlor",
         "iconpixelated": false,
