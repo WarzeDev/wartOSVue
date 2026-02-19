@@ -165,6 +165,16 @@ export const desktopIcons: Array<DesktopIcon | DesktopLink> = [
     },
     {
         "category": "Games",
+        "height": 650,
+        "iconname": "gob",
+        "iconpixelated": false,
+        "imagedata": "gob.png",
+        "url": "https://gob.warze.org/",
+        "width": 800,
+        "zoom": 0.7
+    },
+    {
+        "category": "Games",
         "height": 600,
         "iconname": "Kubi Pets",
         "iconpixelated": false,
